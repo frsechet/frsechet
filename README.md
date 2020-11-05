@@ -7,4 +7,4 @@ I'm also the co-founder and CTO of [Clevy.io](https://www.clevy.io), a startup b
 
 I mostly code in Rust and Javascript, and I'm quite skilled at cloud ☁️  stuff.
 
-I'm also a former Rubik's cube champion with a best time of 11.15s, which sucks by today's standards but was very good in 2006 🤓
+I'm also a [former Rubik's cube champion](https://www.worldcubeassociation.org/persons/2004SECH01) with a best time of 11.15s, which sucks by today's standards but was very good in 2006 🤓
