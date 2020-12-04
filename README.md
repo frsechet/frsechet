@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📌 My last blog post: [Add Natural Language Understanding capabilities to CSML Studio chatbots with Amazon Lex](https://blog.csml.dev/amazon-lex-csml-studio/)
+📌 My last blog post: [Help, I Need to Move my Chatbot Away From Facebook Messenger Because of the New EU Privacy Rules! 😱](https://blog.csml.dev/help-i-need-to-move-my-chatbot-away-from-facebook-messenger-because-of-the-new-eu-privacy-rules/)
 
 I am the co-creator of [CSML 🦜](https://csml.dev), an [open-source programming language written in Rust](https://github.com/CSML-by-Clevy/csml-engine) that makes it extremely easy to develop powerful and rich chatbots/voicebots.  
 I'm also the co-founder and CTO of [Clevy.io](https://www.clevy.io), a startup based in Paris. We make awesome chatbots for great companies.
