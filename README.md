@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📌 My latest blog post: [Generate More Leads For Your Livestorm Webinars With a Chatbot](https://blog.csml.dev/generate-more-leads-for-your-livestorm-webinars-with-a-chatbot/)
+📌 Read this: [https://console.substack.com/p/console-77](A cool interview about our work on CSML and chatbots) 
 
 I am the co-creator of [CSML 🦜](https://csml.dev), an [open-source programming language written in Rust](https://github.com/CSML-by-Clevy/csml-engine) that makes it extremely easy to develop powerful and rich chatbots/voicebots.  
 I'm also the co-founder and CTO of [Clevy.io](https://www.clevy.io), a startup based in Paris. We make awesome chatbots for great companies.
