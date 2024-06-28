@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Engineering Director at [Fountain](https://www.fountain.com), in charge of developing the greatest suite of hourly worker experience software.
+I am an Engineering Director at [Fountain](https://www.fountain.com), in charge of developing the greatest suite of frontline worker experience software.
 
 I am the co-creator of [CSML 🦜](https://csml.dev), an [open-source programming language written in Rust](https://github.com/CSML-by-Clevy/csml-engine) that makes it extremely easy to develop powerful and rich chatbots/voicebots. I'm also the co-founder and CTO of [Clevy.io](https://www.clevy.io), a startup based in Paris (acquired).
 
